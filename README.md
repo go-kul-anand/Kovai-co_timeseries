@@ -52,11 +52,14 @@ project/
 - Trend plots, histograms, boxplots, and heatmaps
 - Smoothed trend and monthly aggregation visualization
 
-### 2. Key Insights
-- Identify actionable patterns from passenger data
-- Highlight trends, anomalies, and seasonal shifts
-- Visualize passenger mode shifts during events
-- Supports executive decision-making with unique insights
+## Key Insights from Passenger Journey Data
+
+- **School Service** – Passenger demand for school routes shows clear seasonal spikes during school start and end periods, helping optimize scheduling.  
+- **Rapid Route** – Usage of the Rapid Route has steadily increased over time, indicating it is becoming the preferred option for long-distance commuters.  
+- **Underutilized Services** – Certain services, like “Other,” consistently show low passenger counts, suggesting potential for resource reallocation.  
+- **Weekday vs Weekend Patterns** – Passenger volumes are significantly higher on weekdays for most routes, highlighting peak operational demand periods.  
+- **Passenger Mode Shift** – During extreme weather or special events, passengers often shift from Local Routes to Light Rail, showing flexible modal choice.
+
 
 ### 3. Forecasting
 - SARIMA-based forecasting for next 7 days
