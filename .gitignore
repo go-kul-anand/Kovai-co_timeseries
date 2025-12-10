@@ -50,11 +50,7 @@ logs/
 # Reports & Generated Files
 # (so git only stores code, not output)
 # -------------------------
-reports/plots/
-reports/forecast/
-reports/eda/
-reports/insights/
-reports/*
+notebooks/
 
 # If you want to keep report templates, remove above lines and ignore only generated plots:
 # reports/plots/
@@ -71,9 +67,7 @@ dist/
 # Data files (Optional)
 # If your CSV is large or private
 # -------------------------
-data/*.csv
-data/*.xlsx
-data/*.json
+
 
 # If you want to keep sample datasets, remove line above
 # and ignore only large generated files:
