@@ -1,0 +1,17 @@
+# Core
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.2
+
+# Time Series Forecasting
+pmdarima>=2.1.1        # For auto_arima
+statsmodels>=0.14.0    # For SARIMAX
+
+# Machine Learning Metrics
+scikit-learn>=1.2.0
+
+
+
